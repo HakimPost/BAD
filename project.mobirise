@@ -1,0 +1,648 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "3.8.3",
+    "uniqCompNum": 19,
+    "versionPublish": "3.8.3",
+    "name": "FREEKICKERZ",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/student%20a12/Desktop"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-family": "'Roboto Condensed', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-3",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Roboto Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "css": "'Roboto Condensed', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "assets/images/logo-128x128-59.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FREEKICKERZ</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title SPAN": {
+              "font-size": "46px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "font-size": "100px",
+              "color": "#f7da64"
+            }
+          },
+          "_anchor": "header1-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "assets/images/freekickers-youtube-2000x1125-73.png",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "TUTORIAL FREEKICKERZ<br><span style=\"font-weight: normal;\">THIS IS HOW TO USE FREEKICK EASY<br>NEXT TO JOIN</span>",
+          "text": "",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">NOTHING<br></a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            "H3": {
+              "color": "#f7da64"
+            }
+          },
+          "_anchor": "header2-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "assets/images/image-20160627-28354-wsbblb-2000x1334-92.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "assets/images/top-10-footballers-2015-in-each-position-1400x569-49.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "INTRO WITH &nbsp; LAGENDARY<br>FREEKICK<br>FOOTBALL",
+          "text": "&nbsp;THIS IS LAGENDARY PLAYER WHO BRING &nbsp; &nbsp; FULL STRENGT POWERFUL &nbsp;FOOTBALL IN THE WORLD.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">NEXT</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            "H3": {
+              "color": "#f7da64"
+            }
+          },
+          "_anchor": "header2-5",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "assets/images/p12-soccer-a-20150302-2000x1080-91.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "assets/images/aa-1400x788-74.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "HOW TO FREEKICK &nbsp;THAT FIRST STEP BEGIN",
+          "text": "Taking Free Kicks<br>Cristiano Ronaldo is known for his free kicks and for the patented knuckleball-style dip effect he gets when taking them. To accomplish the Cristiano Ronaldo Free Kick, you need to learn to put very little spin on the ball, forcing it to dip suddenly downward while still shooting an accurate shot with a super-charged velocity that'll be difficult to defend against<br><br>1<br>Position the ball with the valve facing you. This is optional although it can give the ball better flight movement in the air. When Ronaldo takes a free kick, he always lines up the ball so the valve will make contact with his foot. It's difficult to know if this contact has any real effect on the trajectory of the ball or if it's just superstition, but it can't hurt to try.[1].",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">NEXT</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            "DIV": {
+              "font-size": "36px",
+              "color": "#f7da64"
+            }
+          },
+          "_anchor": "header2-b",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "assets/images/mesut-ozil-real-madrid-free-kick-wallpaper-1024x605-2000x1181-8.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "assets/images/aid590553-728px-kick-like-cristiano-ronaldo-step-2-version-2-1400x788-40.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "2<div>Take five steps back to the right if you're right footed or to the left if you're left footed.And then take one and a half steps to the left.</div>",
+          "text": "He then stands with his arms straight down and his legs spread very wide, more than shoulder-width. As he approaches, he works a distinctive stutter-step into his kicks. Taking a few quick stutters tends to throw off the goalkeepers and other defenders, so they won't know exactly when the kick is coming..",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">NEXT</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            "SPAN": {
+              "color": "#f7da64"
+            }
+          },
+          "_anchor": "header2-c",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "assets/images/image-20160627-28354-1eduy73-2000x1330-46.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "assets/images/aid590553-728px-kick-like-cristiano-ronaldo-step-3-version-2-1400x788-5.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "3<br>&nbsp;<span style=\"font-size: 3rem; line-height: 1.1;\">Plant your non-kicking foot and lean forward.</span>",
+          "text": "Plant your other foot beside the ball and to the opposite side of your strong foot to get the proper angle for an upward arch of the ball.<br>His free-kicks tend to go up high very quickly, seeming to explode off his foot. This comes from the quick and short follow through right after making contact with the ball. Done properly, the kick won't spin, but will arc up, then dip back down quickly, or zig-zag according to the power put in with the follow-through.[2]",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">NEXT</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            "DIV": {
+              "color": "#f7da64"
+            }
+          },
+          "_anchor": "header2-d",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "assets/images/soccer-free-kick-1024x676-2000x1320-30.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "assets/images/aid590553-728px-kick-like-cristiano-ronaldo-step-4-version-2-1400x788-57.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "4<div>Contact the ball just below the centre of the ball center with your instep.</div>",
+          "text": "want to make contact on the ball with the long bone in your foot that runs from your big toe to the top of your foot. Aim for the nozzle valve that you faced toward you at the beginning of the kick.<br>To give it the knuckle-ball effect, you need to avoid putting any English or spin on the ball whatsoever. Try to hit the ball just below the middle but not too low so that it doesn't take backspin.Not rolling it off your foot at all.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">NEXT</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            "DIV": {
+              "color": "#f7da64"
+            }
+          },
+          "_anchor": "header2-e",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "assets/images/soccer-wallpaper-25-2000x1125-15.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "assets/images/aid590553-728px-kick-like-cristiano-ronaldo-step-5-version-2-1-1400x788-69.jpg",
+              "link": "<div class=",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "5<div>Follow through.</div>",
+          "text": "The most important part of the kick is the follow-through. Follow through by pointing your kicking foot where you want the ball to go, swiveling around toward your target and driving your plant foot off the ground and up into the air. Bring your kicking knee straight up instead of the more traditional follow-through in which you end up to the side.<br>Imagine you wanted to make the knee of your kicking foot touch your chin after you make contact with the ball. Done properly, your kicking foot should hit the ground first. Now stand back and watch your knuckle-ball in all its unpredictable glory.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">NEXT</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-lead": {
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "header1-f",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "assets/images/wc1802218-2000x1125-41.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "HISTORY",
+          "text": "Football has seen many innovations during its 150-year history. But few have affected the game as profoundly as technological changes to the aerodynamic properties of the ball. For nearly 40 years the ball’s panel pattern followed the classic hexagon-pentagon format with 32 panels, but in 2006 the design changed radically.<br>In the World Cup in Germany that year, the Teamgeist ball had only 14 panels. Then in South Africa 2010 the Jabulani ball featured only eight, and in Brazil 2014 there were just six on the Brazuca. The ball being used at Euro 2016 in France, the Beau Jeu, is essentially a derivative of the Brazuca with identical panel design, so for the moment six appears to be the ideal number of panels.<br> The Beau Jeu. PA<br>The panel configuration of a ball influences its speed and flight through the air. Problems with the German Teamgeist ball, such as its erratic behaviour in flight, have now largely been eliminated in its successors. But what the subsequent technology has produced is a ball with much reduced aerodynamic drag, which means it flies faster, and stays in the air longer. Enhanced speed is highly desirable in penalty kicks, but not for that other important football set piece: the direct free kick. Here the objective is to beat the defensive wall, to get the ball “up and down” to use the jargon of football’s television pundits.<br>Getting the ball over the wall is not especially a problem, but bringing the modern ball down sufficiently quickly to commit the goal keeper into making a save is another matter, unless a special kicking technique is used. And this is when the kicker needs to produce the right kind of spin.<br>A ball in flight experiences three important forces: gravity (the ball’s weight); aerodynamic drag caused by air flowing across its surface; and a special force experienced only when the ball spins. This is called the Magnus force after its discoverer, the German physicist HG Magnus. It has the special property that it is always perpendicular to the spin axis of the ball and its forward direction.<br>The graphic below shows the different kinds of spin a player might impart on the ball, depending on the kicking action adopted.<br>When backspin is applied, the ball rises quickly. This is the technique used by goalkeepers in kicking for distance, say 60–70 metres, but it’s absolutely useless in free kicks, which are typically taken 20–30 metres from the goal.<br> Types of spin. K.Bray, Author provided<br>Sidespin is the overwhelming preference for the game’s elite kickers, but this is where problems can be encountered. The sideways Magnus force that is produced when perfect sidespin is applied can take the ball beyond a goalkeeper’s diving reach. But crucially, it must descend quickly enough after clearing the defensive wall to force a save. Sidespin does nothing to bring the ball down, which is why so many free kicks of this type are simply ballooned over the crossbar.<br>Topspin requires a special kicking technique and few players in the modern game can strike a ball, from the ground, in this manner. Even moderate topspin produces a downward-pointing Magnus force, which is very effective in bringing the ball down quickly. There is the further advantage that the ball can be hit harder and with increased initial elevation to ensure that it clears the defensive wall, even though the defenders jump in attempting to block the shot.<br>Spin ball wizard<br>Now look at the effect that the various types of spin can have on the flight of a free kick. This diagram shows sidespin and topspin free kicks using published aerodynamic data for the Euro 2016 ball. Both shots are hit at 28 metres/sec (63mph) at an elevation that just clears the defensive wall. This is a conservative kicking speed and shots of over 70mph are not uncommon.<br> Ball flight. K.Bray, Author provided<br>As the graphic above shows a sidespin free kick is no threat for distances closer than 25 metres, whereas topspin is effective from as close as 20 metres - and perhaps a little closer - to the goal.<br>So what are the lessons here for footballers? Well, sidespin can be still be used if the shot is under-hit to keep the speed down, to ensure the ball arrives on target. But this is not easy to do when the adrenaline is flowing. Or the limitations of this technique can be accepted, and if a full-blooded delivery is intended, it can be restricted to longer range efforts, say beyond 25 metres.<br>Alternatively strikers can do their best to emulate the superb technique of Wales’ Gareth Bale who has mastered the skill necessary to hit a ball with pace and topspin from the ground. Anyone who doubts this should look carefully at the ball’s rotation in the many slow motion replays of his wonderful free kick against England at Euro 2016. It is pure topspin beyond question. And whether he knows the maths behind it or not, there can be little doubt that he has discovered a winning formula.<br><br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">next</a>"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#f7da64"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-g",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#f7da64"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-h",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "assets/images/wc1722930-2000x1250-17.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-odnoklassniki\"></i></a> "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#f7da64"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-i",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "assets/images/wc1739689-2000x857-33.png",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "THANKS FOR LEARN ABOUT STEP FREEKICK",
+          "text": "<p>.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        }
+      ]
+    }
+  }
+}
